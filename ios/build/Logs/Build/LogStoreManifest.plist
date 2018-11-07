@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1CCF5662-AB40-41ED-B456-A5E2730E31F6</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1CCF5662-AB40-41ED-B456-A5E2730E31F6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hbaNews project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hbaNews</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project hbaNews with scheme hbaNews and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>563284829.12516201</real>
+			<key>timeStoppedRecording</key>
+			<real>563284837.07584298</real>
+			<key>title</key>
+			<string>Building project hbaNews with scheme hbaNews and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1CCF5662-AB40-41ED-B456-A5E2730E31F6</string>
+		</dict>
+		<key>FC746B58-9EA8-48E4-B011-30D2D8F85C22</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC746B58-9EA8-48E4-B011-30D2D8F85C22.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hbaNews project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hbaNews</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project hbaNews with scheme hbaNews and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>563295591.52847397</real>
+			<key>timeStoppedRecording</key>
+			<real>563295693.94426799</real>
+			<key>title</key>
+			<string>Building project hbaNews with scheme hbaNews and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FC746B58-9EA8-48E4-B011-30D2D8F85C22</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

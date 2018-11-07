@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/DevSupport/RCTPackagerConnection.mm \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

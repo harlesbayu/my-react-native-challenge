@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/harlesbayu/Documents/Hacktiv8/upload/phase-3/week2/Exercise2/hbaNews/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
